@@ -1,5 +1,5 @@
-# How will this compare?
-I hope to see the comparison here.
+# 2. This is the area where the changes will be made.
 
+These changes occur within the newly created branch.
 
-I'm getting confused in here!
+I need to ensure that I follow the correct precedure.
